@@ -20,5 +20,6 @@ if __name__ == "__main__":
     add_student(students_grades, "Anna", [85, 90, 78])
     add_student(students_grades, "Liam", [92, 88, 95])
     add_student(students_grades, "Mika", [70, 75, 80])
+    add_student(students_grades, "Irene", [100, 100, 80])
 
     print_report(students_grades)
